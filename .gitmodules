@@ -1,0 +1,3 @@
+[submodule "wasm-life-www"]
+	path = www
+	url = git@github.com:cgM82589933/wasm-life-www.git
