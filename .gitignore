@@ -6,5 +6,4 @@ pkg/
 wasm-pack.log
 
 .dccache
-www/
 pkg/
